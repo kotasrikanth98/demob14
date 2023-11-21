@@ -9,8 +9,8 @@ public class demo {
 
             System.out.println("Enter Second Number: ");
             num2 = sc.nextInt();
-        diff = num1 - num2;
-            System.out.println("Sum of these numbers: " + diff);
+            diff = num1 - num2;
+            System.out.println("Sum of these numbers: " +diff);
         }
     }
 }
